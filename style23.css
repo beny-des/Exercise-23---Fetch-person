@@ -15,7 +15,7 @@ body {
   justify-content: space-around;
   align-items: center;
   align-content: center;
-  
+  /* align-content: center; */
 }
 
 
@@ -58,7 +58,9 @@ height: 350px;
 flex-flow:column wrap;
 margin-left: 50px;
 margin-top: 40px;
+/* border-radius: 50%; */
 }
+img
 
   
 .show-details {
@@ -66,3 +68,4 @@ margin-top: 40px;
     border-color: #f1c40f;
     color: #fff;
 }
+
